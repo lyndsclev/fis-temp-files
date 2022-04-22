@@ -14,6 +14,7 @@ The deployed application can be found here https://friendless-in-seattle.herokua
 ## Table of Contents
 * [Technologies](#technologies)
 * [Wireframe](#wireframe)
+* [Logo](#logo)
 * [Deployed](#deployed)
 * [Contributors](#contributors)
 * [Questions](#questions)
@@ -26,6 +27,13 @@ The work that I put into this group project focused primarily on:
 * BULMA
 * Handlebars 
 * JavaScript 
+
+## Logo
+For this project, I created a logo that is an upside down F to signify the "less" part of friendless. It was created in the font used for the Sleepless in Seattle movie poster, Bodoni. 
+
+I leveraged it as the favicon for the deployed app. 
+
+![Logo](/images/f-logo.png)
 
 ## Wireframe
 Prior to our team diving in, I wireframed the look of our app. Here is a snapshot: 
