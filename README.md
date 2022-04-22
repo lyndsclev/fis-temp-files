@@ -24,7 +24,7 @@ The work that I put into this group project focused primarily on:
 
 * HTML 
 * CSS
-* BULMA
+* Bulma
 * Handlebars 
 * JavaScript 
 
